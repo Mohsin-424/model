@@ -6,9 +6,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "Titanic_Pipeline_Project"
-AUTHOR_USER_NAME = "krishanwalia30"
+AUTHOR_USER_NAME = "Mohsin"
 SRC_REPO = "titanic"
-AUTHOR_EMAIL = "krishanw30@gmail.com"
+AUTHOR_EMAIL = "mohsinpu24@gmail.com"
 
 setuptools.setup(
     name=SRC_REPO,
