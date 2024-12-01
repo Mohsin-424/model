@@ -1,3 +1,6 @@
+# ensure_raises_regex = unittest_case.assertRaisesRegex
+
+
 from titanic.logging import logger
 from titanic.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
 from titanic.pipeline.stage_02_data_validation import DataValidationTrainingPipeline
